@@ -1,0 +1,1 @@
+var somevarible = "this is file1.js"
